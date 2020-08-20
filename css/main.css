@@ -12,7 +12,46 @@ body {
   height: 100%;
 }
 
-header {
+/*SIDE BAR CSS*/
+.sidebar {
+  min-width: 250px;
+  max-width: 250px;
+}
+
+.sidebar, h1 {
+  margin-bottom: 3rem;
+  font-size: 17px;
+  font-style: normal;
+  text-align: center;
+  color: #121212;
+}
+
+.list-unstyled {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.list-style {
+  line-height: 1.6em;
+  letter-spacing: 0em;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 12px;
+  display: block;
+  float: left;
+}
+
+.p-4 {
+  padding-top: 2.5rem !important;
+}
+
+.pt-5 {
+  padding: 4rem;
+}
+
+
+/* header {
   height: 100vh;
   display: flex;
   flex-direction: column;
@@ -31,4 +70,4 @@ h1 {
 img {
   padding: 10px;
   width: 20px;
-}
+} */
