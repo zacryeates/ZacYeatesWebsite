@@ -1,7 +1,31 @@
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+a {
+  color: #1f1f1f;
+}
+
+a:hover, a:active {
+  color: grey;
+}
+
 html {
+  min-height: 100%;
   padding: 0px ;
   margin: 0px;
-  height: 100%;
   font-family: 'Source Sans Pro', sans-serif;
 }
 
@@ -9,7 +33,11 @@ body {
   padding: 0px;
   margin: 0px;
   background-color: #FFFFFE;
-  height: 100%;
+}
+
+.wrapper {
+  min-height: 100vh;
+  display: flex;
 }
 
 /*SIDE BAR CSS*/
@@ -18,21 +46,22 @@ body {
   max-width: 250px;
 }
 
-.sidebar, h1 {
+.p-4 h1 {
   margin-bottom: 3rem;
   font-size: 17px;
   font-style: normal;
   text-align: center;
-  color: #121212;
 }
 
 .list-unstyled {
   padding: 0;
   margin: 0;
   list-style: none;
+  color: #1f1f1f;
 }
 
 .list-style {
+  color: #1f1f1f;
   line-height: 1.6em;
   letter-spacing: 0em;
   font-weight: 500;
@@ -50,24 +79,15 @@ body {
   padding: 4rem;
 }
 
-
-/* header {
-  height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
-h1 {
-  font-size: 17px;
-  font-style: normal;
+.page-content {
+  margin: auto;
+  font-size: 10px;
+  width: 100%;
+  top: 0;
+  right: 0;
   text-align: center;
-  color: #121212;
-  margin: 0
 }
 
 img {
-  padding: 10px;
-  width: 20px;
-} */
+  width: 100px;
+}
