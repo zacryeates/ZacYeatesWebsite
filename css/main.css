@@ -1,3 +1,45 @@
+@media screen and (max-width: 800px) {
+  .wrapper {
+    display: list-item !important;
+    overflow-x: auto !important;
+    overflow-y: auto !important;
+  }
+  .sidebar {
+    width: 100% !important;
+    min-width: none !important;
+    max-width: none !important;
+  }
+  .p-4 h1 {
+    margin-top: 0px !important;
+    margin-bottom: 1rem !important;
+  }
+  .pt-5 {
+    padding: 2rem !important;
+
+  }
+  .page-content {
+   margin: 5px !important;
+  }
+}
+
+@media screen and (max-width: 623px) {
+  .page-content {
+   margin: 5px !important;
+  }
+  img {
+    height: 444px !important;
+  }
+}
+
+@media screen and (max-width: 423px) {
+  .page-content {
+   margin: 5px !important;
+  }
+  img {
+    height: 344px !important;
+  }
+}
+
 a:link {
   text-decoration: none;
 }
@@ -18,7 +60,7 @@ a {
   color: #1f1f1f;
 }
 
-a:hover, a:active {
+a:hover {
   color: grey;
 }
 
@@ -92,12 +134,20 @@ body {
 
 .page-content {
   width: 100%;
-  margin: 30px;
+  margin: 40px;
   position: relative;
+  height: 744px;
 }
 
+
 img {
-  max-width: 90%;
+  font-size: 0px;
+  top: 0px;
+  height: 744px;
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .sidebar-contact {
@@ -128,10 +178,10 @@ html, body, #wrapper {
 
 
 .page-content-information {
-  position: absolute;
+  /* position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%); */
 }
 
 .image-information {
@@ -140,8 +190,8 @@ html, body, #wrapper {
   letter-spacing: 0em;
   font-style: normal;
   font-size: 12px;
-  display: inline-block;
   float: left;
+  margin-bottom: 100px;
 }
 
 .image-information p {
