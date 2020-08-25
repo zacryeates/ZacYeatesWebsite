@@ -30,13 +30,19 @@ html {
 }
 
 body {
+  height: 100vh;
   padding: 0px;
   margin: 0px;
   background-color: #FFFFFE;
 }
 
 .wrapper {
-  height: 100vh;
+  width: 100vw;
+  height: 100%;
+  min-height: 100%;
+  box-sizing: border-box;
+  overflow-x: hidden;
+  overflow-y: hidden;
   display: flex;
 }
 
@@ -86,10 +92,12 @@ body {
 
 .page-content {
   width: 100%;
+  margin: 30px;
+  position: relative;
 }
 
 img {
-  max-width: 70vh;
+  max-width: 90%;
 }
 
 .sidebar-contact {
@@ -106,14 +114,42 @@ img {
 }
 
 html, body, #wrapper {
-   height:100%;
-   width: 100%;
-   margin: 0;
-   padding: 0;
-   border: 0;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  border: 0;
 }
 
 #wrapper td {
    vertical-align: middle;
    text-align: center;
+}
+
+
+.page-content-information {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.image-information {
+  color: #1f1f1f;
+  line-height: 1.6em;
+  letter-spacing: 0em;
+  font-style: normal;
+  font-size: 12px;
+  display: inline-block;
+  float: left;
+}
+
+.image-information p {
+  margin: 0;
+  padding: 0;
+}
+
+.title {
+  font-weight: 550;
+  font-size: 12px;
 }
