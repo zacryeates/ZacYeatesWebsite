@@ -30627,8 +30627,8 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-nav-2 {font-size: 1.25rem} 
 @media (max-width: 1199px){ .u-header .u-image-1 {width: 64px; height: 32px}
 .u-header .u-menu-1 {width: auto} }
-
-
+@media (max-width: 991px){ .u-header .u-image-1 {width: auto} }
+@media (max-width: 767px){ .u-header .u-image-1 {width: 64px; height: 32px} }
 
  .u-footer {background-image: none}
 .u-footer .u-sheet-1 {min-height: 120px}

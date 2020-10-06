@@ -47,8 +47,8 @@
 .u-section-1 .u-social-icons-1 {margin-top: 566px; margin-left: 17px}
 .u-section-1 .u-layout-cell-2 {min-height: 835px} }
 
-@media (max-width: 991px){ .u-section-1 {min-height: 817px}
-.u-section-1 .u-layout-wrap-1 {margin-bottom: 0; margin-right: initial; margin-left: initial}
+@media (max-width: 991px){ .u-section-1 {min-height: 100vh}
+.u-section-1 .u-layout-wrap-1 {margin-bottom: 60px; margin-right: initial; margin-left: initial}
 .u-section-1 .u-layout-cell-1 {min-height: NaNpx}
 .u-section-1 .u-text-1 {margin-right: 0; margin-left: 11px}
 .u-section-1 .u-btn-1 {margin-top: 42px; margin-left: 11px}
@@ -60,8 +60,7 @@
 .u-section-1 .u-gallery-1 {width: 472px; margin-left: 0}
 .u-section-1 .u-gallery-2 {width: 472px; margin-left: 0} }
 
-@media (max-width: 767px){ .u-section-1 {min-height: 100vh}
-.u-section-1 .u-layout-wrap-1 {margin-top: 1px; margin-bottom: 1px; margin-right: initial; margin-left: initial}
+@media (max-width: 767px){ .u-section-1 .u-layout-wrap-1 {margin-top: 1px; margin-bottom: 1px; margin-right: initial; margin-left: initial}
 .u-section-1 .u-layout-cell-1 {min-height: 106px}
 .u-section-1 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
 .u-section-1 .u-text-1 {margin-top: 0; margin-right: 375px; margin-left: 77px}
