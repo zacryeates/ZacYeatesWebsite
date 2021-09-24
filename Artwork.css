@@ -1,0 +1,511 @@
+.u-section-1 {
+  background-image: none;
+  min-height: 705px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 553px;
+  background-image: url("images/NeedsMoreSalt-ZacYeates-Shadow.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 553px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1.125rem;
+  margin: 0 12px 0 -12px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 {
+    min-height: 608px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 456px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 456px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 {
+    min-height: 501px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 349px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 {
+    min-height: 935px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 683px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 140px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 471px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 {
+    min-height: 682px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 430px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 168px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 298px;
+  }
+}.u-section-2 {
+  background-image: none;
+  min-height: 705px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-image-1 {
+  min-height: 553px;
+  background-image: url("images/TalkingHeads-ZacYeates-Shadow.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-2 .u-layout-cell-2 {
+  min-height: 553px;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 1.125rem;
+  margin: 0 12px 0 -12px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 {
+    min-height: 608px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 456px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 456px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 {
+    min-height: 501px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 349px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 {
+    min-height: 935px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 683px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 140px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: 471px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 {
+    min-height: 682px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 430px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 168px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: 298px;
+  }
+}.u-section-3 {
+  background-image: none;
+  min-height: 705px;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-3 .u-image-1 {
+  min-height: 553px;
+  background-image: url("images/6ZacYeatesWorldChampion.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-3 .u-layout-cell-2 {
+  min-height: 553px;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 1.125rem;
+  margin: 0 12px 0 -12px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 {
+    min-height: 608px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 456px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 456px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 {
+    min-height: 501px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 349px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 {
+    min-height: 935px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 683px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 140px;
+  }
+
+  .u-section-3 .u-text-1 {
+    width: 471px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 {
+    min-height: 682px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 430px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 168px;
+  }
+
+  .u-section-3 .u-text-1 {
+    width: 298px;
+  }
+}.u-section-4 {
+  background-image: none;
+  min-height: 705px;
+}
+
+.u-section-4 .u-layout-wrap-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-4 .u-image-1 {
+  min-height: 553px;
+  background-image: url("images/1ZacYeatesSmilingwithNoTeeth.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-4 .u-layout-cell-2 {
+  min-height: 553px;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-4 .u-text-1 {
+  font-size: 1.125rem;
+  margin: 0 12px 0 -12px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 {
+    min-height: 608px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 456px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 456px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 {
+    min-height: 501px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 349px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 {
+    min-height: 935px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 683px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 140px;
+  }
+
+  .u-section-4 .u-text-1 {
+    width: 471px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 {
+    min-height: 682px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 430px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 168px;
+  }
+
+  .u-section-4 .u-text-1 {
+    width: 298px;
+  }
+}.u-section-5 {
+  background-image: none;
+  min-height: 705px;
+}
+
+.u-section-5 .u-layout-wrap-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-5 .u-image-1 {
+  min-height: 553px;
+  background-image: url("images/Butter-see-smell-hear-taste-fly-ZacYeates-Shadow.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-5 .u-layout-cell-2 {
+  min-height: 553px;
+}
+
+.u-section-5 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-5 .u-text-1 {
+  font-size: 1.125rem;
+  margin: 0 12px 0 -12px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 {
+    min-height: 608px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 456px;
+  }
+
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 456px;
+  }
+
+  .u-section-5 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 {
+    min-height: 501px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 349px;
+  }
+
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 {
+    min-height: 935px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 683px;
+  }
+
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 140px;
+  }
+
+  .u-section-5 .u-text-1 {
+    width: 471px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 {
+    min-height: 682px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 430px;
+  }
+
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 168px;
+  }
+
+  .u-section-5 .u-text-1 {
+    width: 298px;
+  }
+}
