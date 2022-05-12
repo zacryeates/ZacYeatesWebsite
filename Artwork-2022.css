@@ -1,0 +1,368 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 113px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 31px 0 31px auto;
+} .u-section-2 {
+  background-image: none;
+  min-height: 705px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-image-1 {
+  min-height: 553px;
+  background-image: url("images/MatchPoint-Shadow-ZacYeates.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-2 .u-layout-cell-2 {
+  min-height: 553px;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 1.125rem;
+  margin: 0 12px 0 -12px;
+}
+
+.u-section-2 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+   .u-section-2 {
+    min-height: 608px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 456px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 456px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-2 {
+    min-height: 501px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 349px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-2 {
+    min-height: 880px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 628px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-2 {
+    min-height: 647px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 395px;
+  }
+} .u-section-3 {
+  background-image: none;
+  min-height: 705px;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-3 .u-image-1 {
+  min-height: 553px;
+  background-image: url("images/CleaningUpYourOwnMess-Shadow-ZacYeates.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-3 .u-layout-cell-2 {
+  min-height: 553px;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 1.125rem;
+  margin: 0 12px 0 -12px;
+}
+
+.u-section-3 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+   .u-section-3 {
+    min-height: 608px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 456px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 456px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-3 {
+    min-height: 501px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 349px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-3 {
+    min-height: 880px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 628px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-3 {
+    min-height: 647px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 395px;
+  }
+} .u-section-4 {
+  background-image: none;
+  min-height: 705px;
+}
+
+.u-section-4 .u-layout-wrap-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-4 .u-image-1 {
+  min-height: 553px;
+  background-image: url("images/IsThisYourCard-ZacYeates.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-4 .u-layout-cell-2 {
+  min-height: 553px;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-4 .u-text-1 {
+  font-size: 1.125rem;
+  margin: 0 12px 0 -12px;
+}
+
+.u-section-4 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+   .u-section-4 {
+    min-height: 608px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 456px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 456px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-4 {
+    min-height: 501px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 349px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-4 {
+    min-height: 880px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 628px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-4 {
+    min-height: 647px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 395px;
+  }
+} .u-section-5 {
+  background-image: none;
+  min-height: 705px;
+}
+
+.u-section-5 .u-layout-wrap-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-5 .u-image-1 {
+  min-height: 553px;
+  background-image: url("images/BallonsforSale-ZacYeates-Shawdow.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-5 .u-layout-cell-2 {
+  min-height: 553px;
+}
+
+.u-section-5 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-5 .u-text-1 {
+  font-size: 1.125rem;
+  margin: 0 12px 0 -12px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-5 {
+    min-height: 608px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 456px;
+  }
+
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 456px;
+  }
+
+  .u-section-5 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-5 {
+    min-height: 501px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 349px;
+  }
+
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-5 {
+    min-height: 880px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 628px;
+  }
+
+  .u-section-5 .u-text-1 {
+    width: 471px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-5 {
+    min-height: 647px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 395px;
+  }
+
+  .u-section-5 .u-text-1 {
+    width: 298px;
+  }
+}
